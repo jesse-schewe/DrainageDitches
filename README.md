@@ -22,3 +22,7 @@ In the same download website, I went up a level to select WBD/\
 Click National/\
 Click GDB/\
 This gdb had trouble displaying in QGIS on Ubuntu. Filezilla'd the gdb to Windows and was able to successfully open in ArcGIS Pro. The data contain columns that include which states they are a part of.\
+\
+WBDHU8 has sizes from 1,590.16 skm to 84,944.11 sqkm with the median at 5,121.81 sqkm.\
+WBDHU10 has sizes from 102 sqkm to 82,002.48 sqkm with the median at 624.18 sqkm.\
+The max is so large because of the Lake Superior unit
