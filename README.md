@@ -12,8 +12,8 @@ Aim for units that have an area ~100km<sup>2</sup>\
 \
 **Collecting Data**\
 [Access National Hydrography Products](https://www.usgs.gov/national-hydrography/access-national-hydrography-products)\
-Click (Download the NHDPlus HR by 4-digit Hydrologic Unit (HU4) for CONUS or by 8-digit Hydrologic Unit (HU8) for Alaska)[https://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/Hydrography/NHDPlusHR/]\
+Click [Download the NHDPlus HR by 4-digit Hydrologic Unit (HU4) for CONUS or by 8-digit Hydrologic Unit (HU8) for Alaska](https://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/Hydrography/NHDPlusHR/)\
 Click National/\
 Click GDB/\
-Click NHDPlus_H_National_Release_1_GDB.zip\
+Click NHDPlus_H_National_Release_1_GDB.zip \
 
