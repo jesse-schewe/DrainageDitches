@@ -20,4 +20,5 @@ After opening in QGIS, this appears to have lots of data but the HUCs are too la
 \
 In the same download website, I went up a level to select WBD/\
 Click National/\
-Click GDB/
+Click GDB/\
+This gdb had trouble displaying in QGIS on Ubuntu. Filezilla'd the gdb to Windows and was able to successfully open in ArcGIS Pro. The data contain columns that include which states they are a part of.\
