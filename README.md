@@ -27,3 +27,6 @@ This gdb had trouble displaying in QGIS on Ubuntu. Filezilla'd the gdb to Window
 WBDHU8 has sizes from 1,590.16 skm to 84,944.11 sqkm with the median at 5,121.81 sqkm.\
 WBDHU10 has sizes from 102 sqkm to 82,002.48 sqkm with the median at 624.18 sqkm.\
 The max is so large because of the Lake Superior unit\
+\
+In ArcGIS Pro, exported features with states column containing MN from WBDHU10\
+Zipped the main shapefiles together for loading into
