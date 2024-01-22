@@ -29,4 +29,4 @@ WBDHU10 has sizes from 102 sqkm to 82,002.48 sqkm with the median at 624.18 sqkm
 The max is so large because of the Lake Superior unit\
 \
 In ArcGIS Pro, exported features with states column containing MN from WBDHU10\
-Zipped the main shapefiles together for loading into
+Zipped the main shapefiles (.shp, .shx, .dbf) together for loading into
