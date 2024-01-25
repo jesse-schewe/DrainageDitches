@@ -32,4 +32,5 @@ In ArcGIS Pro, exported features with states column containing MN from WBDHU10 a
 Shipped exported shapefiles over to Ubuntu to work in Jupyter Notebooks\
 Downloaded N44W094.hgt from from [Shuttle Radar Topography Mission](https://dwtkns.com/srtm30m/) for testing\
 \
+After a fair amount of prototyping I was able to come up with [HUC_Func](https://github.com/jesse-schewe/DrainageDitches/blob/main/HUC_Func.ipynb) as a semi ready to go script to parse out pieces of a raster based on collection of polygons
 
