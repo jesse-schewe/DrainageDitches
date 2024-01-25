@@ -28,5 +28,8 @@ WBDHU8 has sizes from 1,590.16 skm to 84,944.11 sqkm with the median at 5,121.81
 WBDHU10 has sizes from 102 sqkm to 82,002.48 sqkm with the median at 624.18 sqkm.\
 The max is so large because of the Lake Superior unit\
 \
-In ArcGIS Pro, exported features with states column containing MN from WBDHU10\
-Zipped the main shapefiles (.shp, .shx, .dbf) together for loading into
+In ArcGIS Pro, exported features with states column containing MN from WBDHU10 as WBDHU10_MN\
+Shipped exported shapefiles over to Ubuntu to work in Jupyter Notebooks\
+Downloaded N44W094.hgt from from [Shuttle Radar Topography Mission](https://dwtkns.com/srtm30m/) for testing\
+\
+
