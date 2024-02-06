@@ -28,6 +28,8 @@ WBDHU8 has sizes from 1,590.16 skm to 84,944.11 sqkm with the median at 5,121.81
 WBDHU10 has sizes from 102 sqkm to 82,002.48 sqkm with the median at 624.18 sqkm.\
 The max is so large because of the Lake Superior unit\
 \
+[Hydrologic Unit Maps by the USGS](https://water.usgs.gov/GIS/huc.html) provides the best explanation for the hydrologic units (HUs) in the US that I've seen this far.\
+\
 In ArcGIS Pro, exported features with states column containing MN from WBDHU10 as WBDHU10_MN\
 Shipped exported shapefiles over to Ubuntu to work in Jupyter Notebooks\
 Downloaded N44W094.hgt dem tile of MN from from [Shuttle Radar Topography Mission](https://dwtkns.com/srtm30m/) for testing\
